@@ -1,4 +1,14 @@
-### Hi there 👋
+### Ohey :wave: I'm Tim
+
+I'm one of those "jack of all trades" types. Most of my stuff is in python 3, with many projects having some sort of infosec or devops purpose.
+A lot of it is volunteer work and work under NDA, but i aim to make as much of it open source.
+
+Currently i'm a computer science AP student, after switching from a "regular" BSc programme.
+
+A lot of my time goes with audio engineering and "wrestling" valves srcds and sourcemod.
+
+
+
 
 <!--
 **Veticus/veticus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
