@@ -5,7 +5,7 @@ A lot of it is volunteer work and work under NDA, but i aim to make as much of i
 
 Currently i'm a computer science AP student, after switching from a "regular" BSc programme.
 
-A lot of my time goes with audio engineering and "wrestling" valves srcds and sourcemod.
+A lot of my time goes with audio engineering and trying to get better at project management.
 
 
 
