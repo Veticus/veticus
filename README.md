@@ -1,7 +1,6 @@
 ### Ohey :wave: I'm Tim
 
 I'm one of those "jack of all trades" types. Most of my stuff is in python 3, with many projects having some sort of infosec or devops purpose.
-A lot of it is volunteer work and work under NDA, but i aim to make as much of it open source.
 
 Currently i'm a computer science AP student, after switching from a "regular" BSc programme.
 
