@@ -6,7 +6,8 @@ Currently i'm a computer science AP student, after switching from a "regular" BS
 
 A lot of my time goes with audio engineering and trying to get better at project management.
 
-
+If you're tragically nostalgic like me, this might tell you more about me:
+`GE/IT/MU d-- s:+ a C+++ L++ E- W++ N+ M++ !PS !PE Y+ PGP+ tv-- !e`
 
 
 <!--
