@@ -1,6 +1,7 @@
 ### Ohey :wave: I'm Tim
 
 I'm one of those "jack of all trades" types. Most of my stuff is in python 3, with many projects having some sort of infosec or devops purpose.
+Please note that currently most of my the repositories in this account are marked private, for a very annoying reason.
 
 Currently i'm a computer science AP student, after switching from a "regular" BSc programme.
 
