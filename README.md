@@ -3,9 +3,10 @@
 I'm one of those "jack of all trades" types. Most of my stuff is in python 3, with many projects having some sort of infosec or devops purpose.
 Currently the vast majority of the repositories in this account are marked private, for a very annoying reason.
 
-Currently i'm a computer science AP student, after switching from a "regular" BSc programme.
+Currently i'm a computer science AP student, and looking for an internship for the second half of 2024.
+So if you're in the Aarhus area, and would like a nerd as your new dev-intern, let me know 😀
 
-A lot of my time goes with audio engineering and trying to get better at project management.
+A lot of my time goes with audio engineering and trying to learn rust, c++, project- and product development and personal development.
 
 If you're tragically nostalgic like me, this might tell you more about me:  
 `GE/IT/MU d-- s:+ a C+++ L++ E- W++ N+ M++ w-- !PS !PE Y+ PGP+ tv-- !e`
