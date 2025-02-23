@@ -1,12 +1,11 @@
 ### Ohey :wave: I'm Tim
 
-I'm one of those "jack of all trades" types. Most of my stuff is in python 3, with many projects having some sort of infosec or devops purpose.
+I'm one of those "jack of all trades" types. Most of my stuff is in Python, with many projects having some sort of infosec or devops related purpose.
 Currently the vast majority of the repositories in this account are marked private, for a very annoying reason.
 
-Currently i'm a computer science AP student, and looking for an internship for the second half of 2024.
-So if you're in the Aarhus area, and would like a nerd as your new dev-intern, let me know 😀
+I've recently become a BASc in Computer Science, and i'm now looking for some challenges as a Python/Backend kind of junior dev. So if you know something or someone shoot me an email at jegertim@gmail.com.
 
-A lot of my time goes with audio engineering and trying to learn rust, c++, project- and product development and personal development.
+Most of my time goes with volunteer work, small POC Python projects or tools and audio engineering.
 
 If you're tragically nostalgic like me, this might tell you more about me:  
 `GE/IT/MU d-- s:+ a C+++ L++ E- W++ N+ M++ w-- !PS !PE Y+ PGP+ tv-- !e`
