@@ -1,9 +1,10 @@
 ### Ohey :wave: I'm Tim
 
-I'm one of those "jack of all trades" types. Most of what i do is in Python, with many projects having some sort of infosec or devops related purpose.
+I'm one of those "jack of all trades" types. DevOps engineer by day, audio nerd in the weekends.
+Most of what i do is in Python, with many projects having some sort of infosec or devops related purpose.
 Currently the vast majority of the repositories in this account are marked private, for a very annoying reason.
 
-Most of my time goes with volunteer work, small POC Python projects or tools and audio engineering.
+Most of my free time goes with volunteer work, small POC Python projects or tools and audio engineering/design.
 
 If you're tragically nostalgic like me, this might tell you more about me:  
 `GE/IT/MU d-- s:+ a C+++ L++ E- W++ N+ M++ w-- !PS !PE Y+ PGP+ tv-- !e`
