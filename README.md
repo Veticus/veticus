@@ -7,7 +7,13 @@ Currently the vast majority of the repositories in this account are marked priva
 Most of my free time goes with volunteer work, small POC Python projects or tools and audio engineering/design.
 
 If you're tragically nostalgic like me, this might tell you more about me:  
-`GE/IT/MU d-- s:+ a C+++ L++ E- W++ N+ M++ w-- !PS !PE Y+ PGP+ tv-- !e`
+```
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GCS/MU/O d- s+:++ a UL P- 
+L+++ N M? PS++ PE- Y++ PGP+ e+
+------END GEEK CODE BLOCK------
+```
 
 <!--
 **Veticus/veticus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
